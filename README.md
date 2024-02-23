@@ -7,3 +7,4 @@
 * Lynch, M., 2010. Evolution of the mutation rate. Trends in Genetics, 26(8), pp.345-352.
 * Lynch, M., 2007. The frailty of adaptive hypotheses for the origins of organismal complexity. Proceedings of the National Academy of Sciences, 104(suppl_1), pp.8597-8604.
 * Lynch, M. and Conery, J.S., 2003. The origins of genome complexity. Science, 302(5649), pp.1401-1404.
+* Szathmáry, E. and Smith, J.M., 1995. The major evolutionary transitions. Nature, 374(6519), pp.227-232.
