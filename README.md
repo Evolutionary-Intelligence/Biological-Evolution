@@ -1,5 +1,6 @@
 # Evolution
 
+* Melissa, M.J. and Desai, M.M., 2024. A dynamical limit to evolutionary adaptation. Proceedings of the National Academy of Sciences, 121(4), p.e2312845121.
 * Herron, M.D., Conlin, P.L. and Ratcliff, W.C. eds., 2022. The evolution of multicellularity. CRC Press.
 * Czégel, D., Giaffar, H., Zachar, I., Tenenbaum, J.B. and Szathmáry, E., 2019. [Evolutionary implementation of Bayesian computations](https://www.biorxiv.org/content/10.1101/685842v2.abstract). BioRxiv, p.685842.
 * Czégel, D., Zachar, I. and Szathmáry, E., 2019. [Multilevel selection as Bayesian inference, major transitions in individuality as structure learning](https://royalsocietypublishing.org/doi/full/10.1098/rsos.190202). Royal Society Open Science, 6(8), p.190202.
