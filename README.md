@@ -2,7 +2,7 @@
 
 * Melissa, M.J. and Desai, M.M., 2024. A dynamical limit to evolutionary adaptation. Proceedings of the National Academy of Sciences, 121(4), p.e2312845121.
 * Herron, M.D., Conlin, P.L. and Ratcliff, W.C. eds., 2022. The evolution of multicellularity. CRC Press.
-* Stephan, T., Burgess, S.M., Cheng, H., Danko, C.G., Gill, C.A., Jarvis, E.D., Koepfli, K.P., Koltes, J.E., Lyons, E., Ronald, P. and Ryder, O.A., 2022. Darwinian genomics and diversity in the tree of life. Proceedings of the National Academy of Sciences, 119(4), p.e2115644119.
+* Stephan, T., Burgess, S.M., Cheng, H., Danko, C.G., Gill, C.A., Jarvis, E.D., Koepfli, K.P., Koltes, J.E., Lyons, E., Ronald, P. and Ryder, O.A., 2022. [Darwinian genomics and diversity in the tree of life](https://www.pnas.org/doi/abs/10.1073/pnas.2115644119). Proceedings of the National Academy of Sciences, 119(4), p.e2115644119.
 * Czégel, D., Giaffar, H., Zachar, I., Tenenbaum, J.B. and Szathmáry, E., 2019. [Evolutionary implementation of Bayesian computations](https://www.biorxiv.org/content/10.1101/685842v2.abstract). BioRxiv, p.685842.
 * Czégel, D., Zachar, I. and Szathmáry, E., 2019. [Multilevel selection as Bayesian inference, major transitions in individuality as structure learning](https://royalsocietypublishing.org/doi/full/10.1098/rsos.190202). Royal Society Open Science, 6(8), p.190202.
 * Szathmáry, E., 2015. Toward major evolutionary transitions theory 2.0. Proceedings of the National Academy of Sciences, 112(33), pp.10104-10111.
