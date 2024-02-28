@@ -5,6 +5,7 @@
 * Stephan, T., Burgess, S.M., Cheng, H., Danko, C.G., Gill, C.A., Jarvis, E.D., Koepfli, K.P., Koltes, J.E., Lyons, E., Ronald, P. and Ryder, O.A., 2022. [Darwinian genomics and diversity in the tree of life](https://www.pnas.org/doi/abs/10.1073/pnas.2115644119). Proceedings of the National Academy of Sciences, 119(4), p.e2115644119.
 * Vanchurin, V., Wolf, Y.I., Katsnelson, M.I. and Koonin, E.V., 2022. Toward a theory of evolution as multilevel learning. Proceedings of the National Academy of Sciences, 119(6), p.e2120037119.
 * Vanchurin, V., Wolf, Y.I., Koonin, E.V. and Katsnelson, M.I., 2022. [Thermodynamics of evolution and the origin of life](https://www.pnas.org/doi/abs/10.1073/pnas.2120042119). Proceedings of the National Academy of Sciences, 119(6), p.e2120042119.
+* Zheng, J., Guo, N. and Wagner, A., 2020. Selection enhances protein evolvability by increasing mutational robustness and foldability. Science, 370(6521), p.eabb5962.
 * Czégel, D., Giaffar, H., Zachar, I., Tenenbaum, J.B. and Szathmáry, E., 2019. [Evolutionary implementation of Bayesian computations](https://www.biorxiv.org/content/10.1101/685842v2.abstract). BioRxiv, p.685842.
 * Czégel, D., Zachar, I. and Szathmáry, E., 2019. [Multilevel selection as Bayesian inference, major transitions in individuality as structure learning](https://royalsocietypublishing.org/doi/full/10.1098/rsos.190202). Royal Society Open Science, 6(8), p.190202.
 * Szathmáry, E., 2015. Toward major evolutionary transitions theory 2.0. Proceedings of the National Academy of Sciences, 112(33), pp.10104-10111.
