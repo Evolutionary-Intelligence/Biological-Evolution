@@ -14,6 +14,7 @@
 * Vasas, V., Szathmáry, E. and Santos, M., 2010. Lack of evolvability in self-sustaining autocatalytic networks constraints metabolism-first scenarios for the origin of life. Proceedings of the National Academy of Sciences, 107(4), pp.1470-1475.
 * Lynch, M., 2007. The frailty of adaptive hypotheses for the origins of organismal complexity. Proceedings of the National Academy of Sciences, 104(suppl_1), pp.8597-8604.
 * Lynch, M. and Conery, J.S., 2003. The origins of genome complexity. Science, 302(5649), pp.1401-1404.
+* Partridge, L. and Barton, N.H., 2000. Evolving evolvability. Nature, 407(6803), pp.457-458.
 * Metzgar, D. and Wills, C., 2000. [Evidence for the adaptive evolution of mutation rates](https://www.cell.com/fulltext/S0092-8674(00)80869-7#%20). Cell, 101(6), pp.581-584.
 * Arjan G, J., Visser, M.D., Zeyl, C.W., Gerrish, P.J., Blanchard, J.L. and Lenski, R.E., 1999. Diminishing returns from mutation supply rate in asexual populations. Science, 283(5400), pp.404-406.
 * Dickinson, W.J. and Seger, J., 1999. Cause and effect in evolution. Nature, 399(6731), pp.30-30.
