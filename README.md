@@ -22,5 +22,6 @@
 * Dickinson, W.J. and Seger, J., 1999. Cause and effect in evolution. Nature, 399(6731), pp.30-30.
 * Rosenberg, S.M., Thulin, C. and Harris, R.S., 1998. Transient and heritable mutators in adaptive evolution in the lab and in nature. Genetics, 148(4), pp.1559-1566.
 * Szathmáry, E. and Smith, J.M., 1995. The major evolutionary transitions. Nature, 374(6519), pp.227-232.
+* Hinton, G.E. and Nowlan, S.J., 1987. How learning can guide evolution. Complex Systems, 1(3), pp.495-502.
 * Mayr, E., 1961. Cause and effect in biology: Kinds of causes, predictability, and teleology are viewed by a practicing biologist. Science, 134(3489), pp.1501-1506.
 * Wright, S., 1932. The roles of mutation, inbreeding, crossbreeding and selection in evolution. In Proceedings of Sixth International Congress of Genetics (Vol. 1, pp. 356-366).
