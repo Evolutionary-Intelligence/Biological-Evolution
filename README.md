@@ -24,6 +24,7 @@
 * Smith, J.M. and Szathmary, E., 1997. The major transitions in evolution. OUP Oxford.
 * Szathmáry, E. and Smith, J.M., 1995. The major evolutionary transitions. Nature, 374(6519), pp.227-232.
 * Hinton, G.E. and Nowlan, S.J., 1987. How learning can guide evolution. Complex Systems, 1(3), pp.495-502.
+* Wilson, D.S., 1976. Evolution on the level of communities. Science, 192(4246), pp.1358-1360.
 * Stanley, S.M., 1975. A theory of evolution above the species level. Proceedings of the National Academy of Sciences, 72(2), pp.646-650.
 * Mayr, E., 1961. Cause and effect in biology: Kinds of causes, predictability, and teleology are viewed by a practicing biologist. Science, 134(3489), pp.1501-1506.
 * Hamilton, W.D., 1964. The genetical evolution of social behaviour. II. Journal of Theoretical Biology, 7(1), pp.17-52.
