@@ -26,4 +26,5 @@
 * Hinton, G.E. and Nowlan, S.J., 1987. How learning can guide evolution. Complex Systems, 1(3), pp.495-502.
 * Stanley, S.M., 1975. A theory of evolution above the species level. Proceedings of the National Academy of Sciences, 72(2), pp.646-650.
 * Mayr, E., 1961. Cause and effect in biology: Kinds of causes, predictability, and teleology are viewed by a practicing biologist. Science, 134(3489), pp.1501-1506.
+* Hamilton, W.D., 1964. The genetical evolution of social behaviour. II. Journal of Theoretical Biology, 7(1), pp.17-52.
 * Wright, S., 1932. The roles of mutation, inbreeding, crossbreeding and selection in evolution. In Proceedings of Sixth International Congress of Genetics (Vol. 1, pp. 356-366).
