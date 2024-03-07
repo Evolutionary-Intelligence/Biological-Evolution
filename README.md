@@ -22,6 +22,7 @@
 * Metzgar, D. and Wills, C., 2000. [Evidence for the adaptive evolution of mutation rates](https://www.cell.com/fulltext/S0092-8674(00)80869-7#%20). Cell, 101(6), pp.581-584.
 * Arjan G, J., Visser, M.D., Zeyl, C.W., Gerrish, P.J., Blanchard, J.L. and Lenski, R.E., 1999. Diminishing returns from mutation supply rate in asexual populations. Science, 283(5400), pp.404-406.
 * Dickinson, W.J. and Seger, J., 1999. Cause and effect in evolution. Nature, 399(6731), pp.30-30.
+* Hanski, I., 1998. Metapopulation dynamics. Nature, 396(6706), pp.41-49.
 * Rosenberg, S.M., Thulin, C. and Harris, R.S., 1998. Transient and heritable mutators in adaptive evolution in the lab and in nature. Genetics, 148(4), pp.1559-1566.
 * Smith, J.M. and Szathmary, E., 1997. The major transitions in evolution. OUP Oxford.
 * https://content.time.com/time/subscriber/article/0,33009,983789-1,00.html
