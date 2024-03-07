@@ -40,3 +40,5 @@
   * Wright, S., 1986. Evolution: Selected papers. University of Chicago Press.
   * Wright, S., 1984. Evolution and the genetics of populations, volume 4: Variability within and among natural populations. University of Chicago Press.
   * Wright, S., 1940. Breeding structure of populations in relation to speciation. American Naturalist, 74(752), pp.232-248.
+  * Wright, S., 1931. Evolution in Mendelian populations. Genetics, 16(2), p.97.
+
