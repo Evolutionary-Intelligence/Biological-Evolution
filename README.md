@@ -33,6 +33,7 @@
 * Stanley, S.M., 1975. A theory of evolution above the species level. Proceedings of the National Academy of Sciences, 72(2), pp.646-650.
 * Levins, R., 1969. Some demographic and genetic consequences of environmental heterogeneity for biological control. Bulletin of the ESA, 15(3), pp.237-240.
 * Sagan, L., 1967. On the origin of mitosing cells. Journal of Theoretical Biology, 14(3), pp.225-IN6.
+* Smith, J.M., 1964. Group selection and kin selection. Nature, 201(4924), pp.1145-1147.
 * Mayr, E., 1961. Cause and effect in biology: Kinds of causes, predictability, and teleology are viewed by a practicing biologist. Science, 134(3489), pp.1501-1506.
 * Hamilton, W.D., 1964. The genetical evolution of social behaviour. II. Journal of Theoretical Biology, 7(1), pp.17-52.
 * Wright, S., 1932. [The roles of mutation, inbreeding, crossbreeding and selection in evolution](http://www.esp.org/books/6th-congress/facsimile/contents/6th-cong-p356-wright.pdf). In Proceedings of Sixth International Congress of Genetics (Vol. 1, pp. 356-366).
