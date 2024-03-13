@@ -17,6 +17,7 @@
 * West, S.A., Fisher, R.M., Gardner, A. and Kiers, E.T., 2015. Major evolutionary transitions in individuality. Proceedings of the National Academy of Sciences, 112(33), pp.10112-10119.
 * Heliconius Genome Consortium, 2012. Butterfly genome reveals promiscuous exchange of mimicry adaptations among species. Nature, 487(7405), pp.94-98.
 * Woods, R.J., Barrick, J.E., Cooper, T.F., Shrestha, U., Kauth, M.R. and Lenski, R.E., 2011. Second-order selection for evolvability in a large Escherichia coli population. Science, 331(6023), pp.1433-1436.
+* Sachs, J.L., Skophammer, R.G. and Regus, J.U., 2011. Evolutionary transitions in bacterial symbiosis. Proceedings of the National Academy of Sciences, 108, pp.10800-10807.
 * Lynch, M., 2010. Evolution of the mutation rate. Trends in Genetics, 26(8), pp.345-352.
 * Vasas, V., Szathmáry, E. and Santos, M., 2010. Lack of evolvability in self-sustaining autocatalytic networks constraints metabolism-first scenarios for the origin of life. Proceedings of the National Academy of Sciences, 107(4), pp.1470-1475.
 * Lynch, M., 2007. The frailty of adaptive hypotheses for the origins of organismal complexity. Proceedings of the National Academy of Sciences, 104(suppl_1), pp.8597-8604.
