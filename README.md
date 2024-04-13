@@ -16,6 +16,7 @@
 * Szathmáry, E., 2015. Toward major evolutionary transitions theory 2.0. Proceedings of the National Academy of Sciences, 112(33), pp.10104-10111.
 * West, S.A., Fisher, R.M., Gardner, A. and Kiers, E.T., 2015. Major evolutionary transitions in individuality. Proceedings of the National Academy of Sciences, 112(33), pp.10112-10119.
 * Heliconius Genome Consortium, 2012. [Butterfly genome reveals promiscuous exchange of mimicry adaptations among species](https://www.nature.com/articles/nature11041). Nature, 487(7405), pp.94-98.
+  * "We infer that closely related Heliconius species exchange protective colour-pattern genes promiscuously, implying that hybridization has an important role in adaptive radiation."
 * Woods, R.J., Barrick, J.E., Cooper, T.F., Shrestha, U., Kauth, M.R. and Lenski, R.E., 2011. Second-order selection for evolvability in a large Escherichia coli population. Science, 331(6023), pp.1433-1436.
 * Sachs, J.L., Skophammer, R.G. and Regus, J.U., 2011. Evolutionary transitions in bacterial symbiosis. Proceedings of the National Academy of Sciences, 108, pp.10800-10807.
 * Lynch, M., 2010. Evolution of the mutation rate. Trends in Genetics, 26(8), pp.345-352.
