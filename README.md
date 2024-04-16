@@ -28,6 +28,7 @@
 * Lynch, M., 2007. The frailty of adaptive hypotheses for the origins of organismal complexity. Proceedings of the National Academy of Sciences, 104(suppl_1), pp.8597-8604.
 * Okasha, S., 2006. Evolution and the levels of selection. Clarendon Press.
 * Okasha, S., 2005. Multilevel selection and the major transitions in evolution. Philosophy of Science, 72(5), pp.1013-1025.
+* Chow, S.S., Wilke, C.O., Ofria, C., Lenski, R.E. and Adami, C., 2004. [Adaptive radiation from resource competition in digital organisms](https://www.science.org/doi/abs/10.1126/science.1096307). Science, 305(5680), pp.84-86.
 * Lynch, M. and Conery, J.S., 2003. The origins of genome complexity. Science, 302(5649), pp.1401-1404.
 * Partridge, L. and Barton, N.H., 2000. Evolving evolvability. Nature, 407(6803), pp.457-458.
 * Metzgar, D. and Wills, C., 2000. [Evidence for the adaptive evolution of mutation rates](https://www.cell.com/fulltext/S0092-8674(00)80869-7#%20). Cell, 101(6), pp.581-584.
