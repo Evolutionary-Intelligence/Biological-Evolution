@@ -1,6 +1,7 @@
 # Biological Evolution
 
 * Rosser, N., Seixas, F., Queste, L.M., Cama, B., Mori-Pezo, R., Kryvokhyzha, D., Nelson, M., Waite-Hudson, R., Goringe, M., Costa, M. and Elias, M., 2024. Hybrid speciation driven by multilocus introgression of ecological traits. Nature, pp.1-7.
+  * "Hybridization allows adaptations to be shared among lineages and may trigger the evolution of new species."
 * Melissa, M.J. and Desai, M.M., 2024. A dynamical limit to evolutionary adaptation. Proceedings of the National Academy of Sciences, 121(4), p.e2312845121.
 * L. Rocha, J., Silva, P., Santos, N., Nakamura, M., Afonso, S., Qninba, A., Boratynski, Z., Sudmant, P.H., Brito, J.C., Nielsen, R. and Godinho, R., 2023. [North African fox genomes show signatures of repeated introgression and adaptation to life in deserts](https://www.nature.com/articles/s41559-023-02094-w). Nature Ecology & Evolution, 7(8), pp.1267-1286.
 * Herron, M.D., Conlin, P.L. and Ratcliff, W.C. eds., 2022. The evolution of multicellularity. CRC Press.
