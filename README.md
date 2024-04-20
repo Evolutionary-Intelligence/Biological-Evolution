@@ -40,6 +40,7 @@ is fundamental to evolutionary biology. Hybridization might have a key role in e
 * Lynch, M., 2007. The frailty of adaptive hypotheses for the origins of organismal complexity. Proceedings of the National Academy of Sciences, 104(suppl_1), pp.8597-8604.
 * Mallet, J., 2007. Hybrid speciation. Nature, 446(7133), pp.279-283.
   * "Today, armed with new and abundant molecular marker data, biologists increasingly find new examples where hybridization seems to facilitate speciation and adaptive radiation in animals, as well as plants."
+  * "Hybrid speciation is only possible if reproductive isolation is weak; if hybrids are intermediate, hybrid species will be even more weakly isolated."
 * Okasha, S., 2006. Evolution and the levels of selection. Clarendon Press.
 * Okasha, S., 2005. Multilevel selection and the major transitions in evolution. Philosophy of Science, 72(5), pp.1013-1025.
 * Chow, S.S., Wilke, C.O., Ofria, C., Lenski, R.E. and Adami, C., 2004. [Adaptive radiation from resource competition in digital organisms](https://www.science.org/doi/abs/10.1126/science.1096307). Science, 305(5680), pp.84-86.
