@@ -38,6 +38,7 @@ is fundamental to evolutionary biology. Hybridization might have a key role in e
 * Gavrilets, S. and Losos, J.B., 2009. [Adaptive radiation: Contrasting theory with data](https://www.science.org/doi/abs/10.1126/science.1157966). Science, 323(5915), pp.732-737.
 * Khila, A. and Abouheif, E., 2008. Reproductive constraint is a developmental mechanism that maintains social harmony in advanced ant societies. Proceedings of the National Academy of Sciences, 105(46), pp.17884-17889.
 * Lynch, M., 2007. The frailty of adaptive hypotheses for the origins of organismal complexity. Proceedings of the National Academy of Sciences, 104(suppl_1), pp.8597-8604.
+* Mallet, J., 2007. Hybrid speciation. Nature, 446(7133), pp.279-283.
 * Okasha, S., 2006. Evolution and the levels of selection. Clarendon Press.
 * Okasha, S., 2005. Multilevel selection and the major transitions in evolution. Philosophy of Science, 72(5), pp.1013-1025.
 * Chow, S.S., Wilke, C.O., Ofria, C., Lenski, R.E. and Adami, C., 2004. [Adaptive radiation from resource competition in digital organisms](https://www.science.org/doi/abs/10.1126/science.1096307). Science, 305(5680), pp.84-86.
