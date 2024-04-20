@@ -1,6 +1,6 @@
 # Biological Evolution
 
-* Rosser, N., Seixas, F., Queste, L.M., Cama, B., Mori-Pezo, R., Kryvokhyzha, D., Nelson, M., Waite-Hudson, R., Goringe, M., Costa, M. and Elias, M., 2024. Hybrid speciation driven by multilocus introgression of ecological traits. Nature, pp.1-7.
+* Rosser, N., Seixas, F., Queste, L.M., Cama, B., Mori-Pezo, R., Kryvokhyzha, D., Nelson, M., Waite-Hudson, R., Goringe, M., Costa, M. and Elias, M., 2024. [Hybrid speciation driven by multilocus introgression of ecological traits](https://www.nature.com/articles/s41586-024-07263-w). Nature, pp.1-7.
   * "Hybridization allows adaptations to be shared among lineages and may trigger the evolution of new species."
   * "How populations transition to new fitness peaks remains an unanswered question, but adaptive introgression provides a possible route."
 * Melissa, M.J. and Desai, M.M., 2024. A dynamical limit to evolutionary adaptation. Proceedings of the National Academy of Sciences, 121(4), p.e2312845121.
