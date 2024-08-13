@@ -62,7 +62,7 @@ is fundamental to evolutionary biology. Hybridization might have a key role in e
 * Hinton, G.E. and Nowlan, S.J., 1987. How learning can guide evolution. Complex Systems, 1(3), pp.495-502.
 * Gould, S.J., 1982. Darwinism and the expansion of evolutionary theory. Science, 216(4544), pp.380-387.
 * Wilson, D.S., 1976. Evolution on the level of communities. Science, 192(4246), pp.1358-1360.
-* Stanley, S.M., 1975. A theory of evolution above the species level. Proceedings of the National Academy of Sciences, 72(2), pp.646-650.
+* Stanley, S.M., 1975. [A theory of evolution above the species level](https://www.pnas.org/doi/abs/10.1073/pnas.72.2.646). Proceedings of the National Academy of Sciences, 72(2), pp.646-650.
 * Levins, R., 1969. Some demographic and genetic consequences of environmental heterogeneity for biological control. Bulletin of the ESA, 15(3), pp.237-240.
 * Sagan, L., 1967. On the origin of mitosing cells. Journal of Theoretical Biology, 14(3), pp.225-IN6.
 * Smith, J.M., 1964. Group selection and kin selection. Nature, 201(4924), pp.1145-1147.
