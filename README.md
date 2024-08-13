@@ -60,6 +60,7 @@ is fundamental to evolutionary biology. Hybridization might have a key role in e
 * https://content.time.com/time/subscriber/article/0,33009,983789-1,00.html
 * Szathmáry, E. and Smith, J.M., 1995. The major evolutionary transitions. Nature, 374(6519), pp.227-232.
 * Hinton, G.E. and Nowlan, S.J., 1987. How learning can guide evolution. Complex Systems, 1(3), pp.495-502.
+* Gould, S.J., 1982. Darwinism and the expansion of evolutionary theory. Science, 216(4544), pp.380-387.
 * Wilson, D.S., 1976. Evolution on the level of communities. Science, 192(4246), pp.1358-1360.
 * Stanley, S.M., 1975. A theory of evolution above the species level. Proceedings of the National Academy of Sciences, 72(2), pp.646-650.
 * Levins, R., 1969. Some demographic and genetic consequences of environmental heterogeneity for biological control. Bulletin of the ESA, 15(3), pp.237-240.
