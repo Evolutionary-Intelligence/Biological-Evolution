@@ -72,6 +72,7 @@ is fundamental to evolutionary biology. Hybridization might have a key role in e
 * Hamilton, W.D., 1964. The genetical evolution of social behaviour. II. Journal of Theoretical Biology, 7(1), pp.17-52.
 * Schrödinger, E., 1944. What is life? The physical aspect of the living cell and mind. Cambridge: Cambridge University Press.
 * Wright, S., 1932. [The roles of mutation, inbreeding, crossbreeding and selection in evolution](http://www.esp.org/books/6th-congress/facsimile/contents/6th-cong-p356-wright.pdf). In Proceedings of Sixth International Congress of Genetics (Vol. 1, pp. 356-366).
+  * https://www.nasonline.org/wp-content/uploads/2024/06/wright-sewall.pdf
   * https://www.nature.com/articles/332492a0
   * https://www.nasonline.org/member-directory/deceased-members/48919.html
   * https://royalsocietypublishing.org/doi/10.1098/rsbm.1990.0044
