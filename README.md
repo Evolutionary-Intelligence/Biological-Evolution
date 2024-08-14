@@ -67,6 +67,7 @@ is fundamental to evolutionary biology. Hybridization might have a key role in e
 * Levins, R., 1969. Some demographic and genetic consequences of environmental heterogeneity for biological control. Bulletin of the ESA, 15(3), pp.237-240.
 * Sagan, L., 1967. On the origin of mitosing cells. Journal of Theoretical Biology, 14(3), pp.225-IN6.
 * Smith, J.M., 1964. Group selection and kin selection. Nature, 201(4924), pp.1145-1147.
+* Wynne-Edwards, V.C., 2017., 1963. Intergroup selection in the evolution of social systems. Nature, 200(4907), pp.623-626.
 * Mayr, E., 1961. Cause and effect in biology: Kinds of causes, predictability, and teleology are viewed by a practicing biologist. Science, 134(3489), pp.1501-1506.
 * Hamilton, W.D., 1964. The genetical evolution of social behaviour. II. Journal of Theoretical Biology, 7(1), pp.17-52.
 * Schrödinger, E., 1944. What is life? The physical aspect of the living cell and mind. Cambridge: Cambridge University Press.
