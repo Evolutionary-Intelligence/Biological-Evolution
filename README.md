@@ -79,5 +79,6 @@ is fundamental to evolutionary biology. Hybridization might have a key role in e
   * https://www.nytimes.com/1988/03/04/obituaries/sewall-wright-98-who-formed-mathematical-basis-for-evolution.html
   * Wright, S., 1986. Evolution: Selected papers. University of Chicago Press.
   * Wright, S., 1984. Evolution and the genetics of populations, volume 4: Variability within and among natural populations. University of Chicago Press.
+  * Wright, S., 1945. Tempo and mode in evolution: A critical review. Ecology, 26(4), pp.415-419.
   * Wright, S., 1940. Breeding structure of populations in relation to speciation. American Naturalist, 74(752), pp.232-248.
   * Wright, S., 1931. [Evolution in Mendelian populations](http://v3r.esp.org/foundations/genetics/classical/holdings/w/sw-31a.pdf). Genetics, 16(2), p.97.
