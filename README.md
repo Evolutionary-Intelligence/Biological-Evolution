@@ -40,6 +40,7 @@ is fundamental to evolutionary biology. Hybridization might have a key role in e
 * Vasas, V., Szathmáry, E. and Santos, M., 2010. Lack of evolvability in self-sustaining autocatalytic networks constraints metabolism-first scenarios for the origin of life. Proceedings of the National Academy of Sciences, 107(4), pp.1470-1475.
 * Gavrilets, S. and Losos, J.B., 2009. [Adaptive radiation: Contrasting theory with data](https://www.science.org/doi/abs/10.1126/science.1157966). Science, 323(5915), pp.732-737.
 * Khila, A. and Abouheif, E., 2008. Reproductive constraint is a developmental mechanism that maintains social harmony in advanced ant societies. Proceedings of the National Academy of Sciences, 105(46), pp.17884-17889.
+* Lehmann, L., Keller, L., West, S. and Roze, D., 2007. [Group selection and kin selection: Two concepts but one process](https://www.pnas.org/doi/abs/10.1073/pnas.0700662104). Proceedings of the National Academy of Sciences, 104(16), pp.6736-6739.
 * Lynch, M., 2007. The frailty of adaptive hypotheses for the origins of organismal complexity. Proceedings of the National Academy of Sciences, 104(suppl_1), pp.8597-8604.
 * Mallet, J., 2007. Hybrid speciation. Nature, 446(7133), pp.279-283.
   * "Today, armed with new and abundant molecular marker data, biologists increasingly find new examples where hybridization seems to facilitate speciation and adaptive radiation in animals, as well as plants."
