@@ -8,6 +8,7 @@
 is fundamental to evolutionary biology. Hybridization might have a key role in establishing barriers to gene flow by creating new allelic combinations."
   * "How populations transition to new fitness peaks remains an unanswered question, but adaptive introgression provides a possible route."
 * Melissa, M.J. and Desai, M.M., 2024. A dynamical limit to evolutionary adaptation. Proceedings of the National Academy of Sciences, 121(4), p.e2312845121.
+* **Wilson, D.S., Madhavan, G., Gelfand, M.J., Hayes, S.C., Atkins, P.W. and Colwell, R.R., 2023. Multilevel cultural evolution: From new theory to practical applications. Proceedings of the National Academy of Sciences, 120(16), p.e2218222120.**
 * L. Rocha, J., Silva, P., Santos, N., Nakamura, M., Afonso, S., Qninba, A., Boratynski, Z., Sudmant, P.H., Brito, J.C., Nielsen, R. and Godinho, R., 2023. [North African fox genomes show signatures of repeated introgression and adaptation to life in deserts](https://www.nature.com/articles/s41559-023-02094-w). Nature Ecology & Evolution, 7(8), pp.1267-1286.
 * Herron, M.D., Conlin, P.L. and Ratcliff, W.C. eds., 2022. The evolution of multicellularity. CRC Press.
 * Hench, K., Helmkampf, M., McMillan, W.O. and Puebla, O., 2022. Rapid radiation in a highly diverse marine environment. Proceedings of the National Academy of Sciences, 119(4), p.e2020457119.
