@@ -26,6 +26,7 @@ is fundamental to evolutionary biology. Hybridization might have a key role in e
 * Zheng, J., Guo, N. and Wagner, A., 2020. Selection enhances protein evolvability by increasing mutational robustness and foldability. Science, 370(6521), p.eabb5962.
 * McGee, M.D., Borstein, S.R., Meier, J.I., Marques, D.A., Mwaiko, S., Taabu, A., Kishe, M.A., O’Meara, B., Bruggmann, R., Excoffier, L. and Seehausen, O., 2020. The ecological and genomic basis of explosive adaptive radiation. Nature, 586(7827), pp.75-79.
 * **Yu, L., Boström, C., Franzenburg, S., Bayer, T., Dagan, T. and Reusch, T.B., 2020. Somatic genetic drift and multilevel selection in a clonal seagrass. Nature Ecology & Evolution, 4(7), pp.952-962.**
+* **Birch, J., 2019. Are kin and group selection rivals or friends?. Current Biology, 29(11), pp.R433-R438.**
 * **Van Vliet, S. and Doebeli, M., 2019. The role of multilevel selection in host microbiome evolution. Proceedings of the National Academy of Sciences, 116(41), pp.20591-20597.**
 * Czégel, D., Giaffar, H., Zachar, I., Tenenbaum, J.B. and Szathmáry, E., 2019. [Evolutionary implementation of Bayesian computations](https://www.biorxiv.org/content/10.1101/685842v2.abstract). BioRxiv, p.685842.
 * Czégel, D., Zachar, I. and Szathmáry, E., 2019. [Multilevel selection as Bayesian inference, major transitions in individuality as structure learning](https://royalsocietypublishing.org/doi/full/10.1098/rsos.190202). Royal Society Open Science, 6(8), p.190202.
