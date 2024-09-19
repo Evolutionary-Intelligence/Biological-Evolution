@@ -50,6 +50,7 @@ is fundamental to evolutionary biology. Hybridization might have a key role in e
 * Lynch, M., 2010. Evolution of the mutation rate. Trends in Genetics, 26(8), pp.345-352.
 * Vasas, V., Szathmáry, E. and Santos, M., 2010. Lack of evolvability in self-sustaining autocatalytic networks constraints metabolism-first scenarios for the origin of life. Proceedings of the National Academy of Sciences, 107(4), pp.1470-1475.
 * **Nowak, M.A., Tarnita, C.E. and Wilson, E.O., 2010. [The evolution of eusociality](https://www.nature.com/articles/nature09205). Nature, 466(7310), pp.1057-1062.**
+* **Wade, M.J., Wilson, D.S., Goodnight, C., Taylor, D., Bar-Yam, Y., de Aguiar, M.A., Stacey, B., Werfel, J., Hoelzer, G.A., Brodie III, E.D. and Fields, P., 2010. [Multilevel and kin selection in a connected world](https://www.nature.com/articles/nature08809). Nature, 463(7283), pp.E8-E9.**
 
 ## 2000s
 
