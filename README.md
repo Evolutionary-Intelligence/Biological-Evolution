@@ -69,7 +69,8 @@ is fundamental to evolutionary biology. Hybridization might have a key role in e
   * "Multilevel selection theory may explain both our remarkable ability to build adaptive social organizations, and our more disturbing ability to tear them down."
 * **Smith, J.M. and Szathmary, E., 1997. The major transitions in evolution. OUP Oxford.**
 * https://content.time.com/time/subscriber/article/0,33009,983789-1,00.html
-* Szathmáry, E. and Smith, J.M., 1995. The major evolutionary transitions. Nature, 374(6519), pp.227-232.
+* **Szathmáry, E. and Smith, J.M., 1995. The major evolutionary transitions. Nature, 374(6519), pp.227-232.**
+* **Wilson, D.S. and Sober, E., 1994. Reintroducing group selection to the human behavioral sciences. Behavioral and Brain Sciences, 17(4), pp.585-608.**
 * Hinton, G.E. and Nowlan, S.J., 1987. How learning can guide evolution. Complex Systems, 1(3), pp.495-502.
 * Gould, S.J., 1982. Darwinism and the expansion of evolutionary theory. Science, 216(4544), pp.380-387.
 * Wilson, D.S., 1976. [Evolution on the level of communities](https://www.science.org/doi/abs/10.1126/science.1273598). Science, 192(4246), pp.1358-1360.
