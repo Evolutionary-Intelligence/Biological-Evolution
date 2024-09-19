@@ -8,6 +8,7 @@
 is fundamental to evolutionary biology. Hybridization might have a key role in establishing barriers to gene flow by creating new allelic combinations."
   * "How populations transition to new fitness peaks remains an unanswered question, but adaptive introgression provides a possible route."
 * Melissa, M.J. and Desai, M.M., 2024. A dynamical limit to evolutionary adaptation. Proceedings of the National Academy of Sciences, 121(4), p.e2312845121.
+* **Cooney, D.B., Levin, S.A., Mori, Y. and Plotkin, J.B., 2023. [Evolutionary dynamics within and among competing groups](https://www.pnas.org/doi/full/10.1073/pnas.2216186120). Proceedings of the National Academy of Sciences, 120(20), p.e2216186120.**
 * **Wilson, D.S., Madhavan, G., Gelfand, M.J., Hayes, S.C., Atkins, P.W. and Colwell, R.R., 2023. Multilevel cultural evolution: From new theory to practical applications. Proceedings of the National Academy of Sciences, 120(16), p.e2218222120.**
 * **Davison, D.R. and Michod, R.E., 2023. [Steps to individuality in biology and culture](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2021.0407). Philosophical Transactions of the Royal Society B, 378(1872), p.20210407.**
 * L. Rocha, J., Silva, P., Santos, N., Nakamura, M., Afonso, S., Qninba, A., Boratynski, Z., Sudmant, P.H., Brito, J.C., Nielsen, R. and Godinho, R., 2023. [North African fox genomes show signatures of repeated introgression and adaptation to life in deserts](https://www.nature.com/articles/s41559-023-02094-w). Nature Ecology & Evolution, 7(8), pp.1267-1286.
