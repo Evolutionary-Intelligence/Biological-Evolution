@@ -63,6 +63,7 @@ is fundamental to evolutionary biology. Hybridization might have a key role in e
   * "Hybrid speciation is only possible if reproductive isolation is weak; if hybrids are intermediate, hybrid species will be even more weakly isolated."
   * "Most speciation involves natural selection; natural selection requires genetic variation; genetic variation is enhanced by hybridization; and hybridization and introgression between species is a regular occurrence, especially in rapidly radiating groups."
 * **Wilson, D.S. and Wilson, E.O., 2007. [Rethinking the theoretical foundation of sociobiology](https://www.journals.uchicago.edu/doi/abs/10.1086/522809). Quarterly Review of Biology, 82(4), pp.327-348.**
+* **West, S.A., Griffin, A.S. and Gardner, A., 2007. Social semantics: Altruism, cooperation, mutualism, strong reciprocity and group selection. Journal of Evolutionary Biology, 20(2), pp.415-432.**
 * Okasha, S., 2006. Evolution and the levels of selection. Clarendon Press.
 * Okasha, S., 2005. Multilevel selection and the major transitions in evolution. Philosophy of Science, 72(5), pp.1013-1025.
 * Chow, S.S., Wilke, C.O., Ofria, C., Lenski, R.E. and Adami, C., 2004. [Adaptive radiation from resource competition in digital organisms](https://www.science.org/doi/abs/10.1126/science.1096307). Science, 305(5680), pp.84-86.
