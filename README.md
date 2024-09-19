@@ -54,6 +54,7 @@ is fundamental to evolutionary biology. Hybridization might have a key role in e
 * Okasha, S., 2006. Evolution and the levels of selection. Clarendon Press.
 * Okasha, S., 2005. Multilevel selection and the major transitions in evolution. Philosophy of Science, 72(5), pp.1013-1025.
 * Chow, S.S., Wilke, C.O., Ofria, C., Lenski, R.E. and Adami, C., 2004. [Adaptive radiation from resource competition in digital organisms](https://www.science.org/doi/abs/10.1126/science.1096307). Science, 305(5680), pp.84-86.
+* **Werfel, J. and Bar-Yam, Y., 2004. [The evolution of reproductive restraint through social communication](https://www.pnas.org/doi/abs/10.1073/pnas.0305059101). Proceedings of the National Academy of Sciences, 101(30), pp.11019-11024.**
 * Lynch, M. and Conery, J.S., 2003. The origins of genome complexity. Science, 302(5649), pp.1401-1404.
 * Rieseberg, L.H., Raymond, O., Rosenthal, D.M., Lai, Z., Livingstone, K., Nakazato, T., Durphy, J.L., Schwarzbach, A.E., Donovan, L.A. and Lexer, C., 2003. Major ecological transitions in wild sunflowers facilitated by hybridization. Science, 301(5637), pp.1211-1216.
 * Partridge, L. and Barton, N.H., 2000. Evolving evolvability. Nature, 407(6803), pp.457-458.
