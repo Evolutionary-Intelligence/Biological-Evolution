@@ -43,6 +43,7 @@ is fundamental to evolutionary biology. Hybridization might have a key role in e
 * Szathmáry, E., 2015. Toward major evolutionary transitions theory 2.0. Proceedings of the National Academy of Sciences, 112(33), pp.10104-10111.
 * West, S.A., Fisher, R.M., Gardner, A. and Kiers, E.T., 2015. Major evolutionary transitions in individuality. Proceedings of the National Academy of Sciences, 112(33), pp.10112-10119.
 * **Markvoort, A.J., Sinai, S. and Nowak, M.A., 2014. [Computer simulations of cellular group selection reveal mechanism for sustaining cooperation](https://www.sciencedirect.com/science/article/abs/pii/S0022519314002598). Journal of Theoretical Biology, 357, pp.123-133.**
+* **Goodnight, C., 2013. [On multilevel selection and kin selection: Contextual analysis meets direct fitness](https://academic.oup.com/evolut/article/67/6/1539/6851246). Evolution, 67(6), pp.1539-1548.**
 * **Heliconius Genome Consortium, 2012. [Butterfly genome reveals promiscuous exchange of mimicry adaptations among species](https://www.nature.com/articles/nature11041). Nature, 487(7405), pp.94-98.**
 * Woods, R.J., Barrick, J.E., Cooper, T.F., Shrestha, U., Kauth, M.R. and Lenski, R.E., 2011. Second-order selection for evolvability in a large Escherichia coli population. Science, 331(6023), pp.1433-1436.
 * Sachs, J.L., Skophammer, R.G. and Regus, J.U., 2011. Evolutionary transitions in bacterial symbiosis. Proceedings of the National Academy of Sciences, 108, pp.10800-10807.
