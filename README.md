@@ -57,6 +57,7 @@ is fundamental to evolutionary biology. Hybridization might have a key role in e
 * Lynch, M. and Conery, J.S., 2003. The origins of genome complexity. Science, 302(5649), pp.1401-1404.
 * Rieseberg, L.H., Raymond, O., Rosenthal, D.M., Lai, Z., Livingstone, K., Nakazato, T., Durphy, J.L., Schwarzbach, A.E., Donovan, L.A. and Lexer, C., 2003. Major ecological transitions in wild sunflowers facilitated by hybridization. Science, 301(5637), pp.1211-1216.
 * Partridge, L. and Barton, N.H., 2000. Evolving evolvability. Nature, 407(6803), pp.457-458.
+* **Swenson, W., Wilson, D.S. and Elias, R., 2000. [Artificial ecosystem selection](https://www.pnas.org/doi/abs/10.1073/pnas.150237597). Proceedings of the National Academy of Sciences, 97(16), pp.9110-9114.**
 * Metzgar, D. and Wills, C., 2000. [Evidence for the adaptive evolution of mutation rates](https://www.cell.com/fulltext/S0092-8674(00)80869-7#%20). Cell, 101(6), pp.581-584.
 * Arjan G, J., Visser, M.D., Zeyl, C.W., Gerrish, P.J., Blanchard, J.L. and Lenski, R.E., 1999. Diminishing returns from mutation supply rate in asexual populations. Science, 283(5400), pp.404-406.
 * Dickinson, W.J. and Seger, J., 1999. Cause and effect in evolution. Nature, 399(6731), pp.30-30.
