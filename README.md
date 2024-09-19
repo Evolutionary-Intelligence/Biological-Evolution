@@ -70,12 +70,14 @@ is fundamental to evolutionary biology. Hybridization might have a key role in e
 * Partridge, L. and Barton, N.H., 2000. Evolving evolvability. Nature, 407(6803), pp.457-458.
 * **Swenson, W., Wilson, D.S. and Elias, R., 2000. [Artificial ecosystem selection](https://www.pnas.org/doi/abs/10.1073/pnas.150237597). Proceedings of the National Academy of Sciences, 97(16), pp.9110-9114.**
 * Metzgar, D. and Wills, C., 2000. [Evidence for the adaptive evolution of mutation rates](https://www.cell.com/fulltext/S0092-8674(00)80869-7#%20). Cell, 101(6), pp.581-584.
+
+## 1990s
+
 * Arjan G, J., Visser, M.D., Zeyl, C.W., Gerrish, P.J., Blanchard, J.L. and Lenski, R.E., 1999. Diminishing returns from mutation supply rate in asexual populations. Science, 283(5400), pp.404-406.
 * Dickinson, W.J. and Seger, J., 1999. Cause and effect in evolution. Nature, 399(6731), pp.30-30.
 * Hanski, I., 1998. [Metapopulation dynamics](https://www.nature.com/articles/23876). Nature, 396(6706), pp.41-49.
 * Rosenberg, S.M., Thulin, C. and Harris, R.S., 1998. Transient and heritable mutators in adaptive evolution in the lab and in nature. Genetics, 148(4), pp.1559-1566.
 * **Wilson, D.S., 1997. [Human groups as units of selection](https://www.science.org/doi/10.1126/science.276.5320.1816). Science, 276(5320), pp.1816-1817.**
-  * "Multilevel selection theory may explain both our remarkable ability to build adaptive social organizations, and our more disturbing ability to tear them down."
 * **Smith, J.M. and Szathmary, E., 1997. The major transitions in evolution. OUP Oxford.**
 * https://content.time.com/time/subscriber/article/0,33009,983789-1,00.html
 * **Szathmáry, E. and Smith, J.M., 1995. The major evolutionary transitions. Nature, 374(6519), pp.227-232.**
