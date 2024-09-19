@@ -42,6 +42,7 @@ is fundamental to evolutionary biology. Hybridization might have a key role in e
 * Sachs, J.L., Skophammer, R.G. and Regus, J.U., 2011. Evolutionary transitions in bacterial symbiosis. Proceedings of the National Academy of Sciences, 108, pp.10800-10807.
 * Lynch, M., 2010. Evolution of the mutation rate. Trends in Genetics, 26(8), pp.345-352.
 * Vasas, V., Szathmáry, E. and Santos, M., 2010. Lack of evolvability in self-sustaining autocatalytic networks constraints metabolism-first scenarios for the origin of life. Proceedings of the National Academy of Sciences, 107(4), pp.1470-1475.
+* **Nowak, M.A., Tarnita, C.E. and Wilson, E.O., 2010. [The evolution of eusociality](https://www.nature.com/articles/nature09205). Nature, 466(7310), pp.1057-1062.**
 * Gavrilets, S. and Losos, J.B., 2009. [Adaptive radiation: Contrasting theory with data](https://www.science.org/doi/abs/10.1126/science.1157966). Science, 323(5915), pp.732-737.
 * Khila, A. and Abouheif, E., 2008. Reproductive constraint is a developmental mechanism that maintains social harmony in advanced ant societies. Proceedings of the National Academy of Sciences, 105(46), pp.17884-17889.
 * Lehmann, L., Keller, L., West, S. and Roze, D., 2007. [Group selection and kin selection: Two concepts but one process](https://www.pnas.org/doi/abs/10.1073/pnas.0700662104). Proceedings of the National Academy of Sciences, 104(16), pp.6736-6739.
