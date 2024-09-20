@@ -80,6 +80,7 @@ is fundamental to evolutionary biology. Hybridization might have a key role in e
 
 * Arjan G, J., Visser, M.D., Zeyl, C.W., Gerrish, P.J., Blanchard, J.L. and Lenski, R.E., 1999. Diminishing returns from mutation supply rate in asexual populations. Science, 283(5400), pp.404-406.
 * Dickinson, W.J. and Seger, J., 1999. Cause and effect in evolution. Nature, 399(6731), pp.30-30.
+* **Gonzalez, A., Lawton, J.H., Gilbert, F.S., Blackburn, T.M. and Evans-Freke, I., 1998. Metapopulation dynamics, abundance, and distribution in a microecosystem. Science, 281(5385), pp.2045-2047.**
 * **Hanski, I., 1998. [Metapopulation dynamics](https://www.nature.com/articles/23876). Nature, 396(6706), pp.41-49.**
   * [https://www.nature.com/articles/534180a](https://www.nature.com/articles/534180a)
   * **Hanski, I. and Gyllenberg, M., 1997. Uniting two general patterns in the distribution of species. Science, 275(5298), pp.397-400.**
