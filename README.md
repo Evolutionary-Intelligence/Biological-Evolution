@@ -84,9 +84,11 @@ is fundamental to evolutionary biology. Hybridization might have a key role in e
 * Rosenberg, S.M., Thulin, C. and Harris, R.S., 1998. Transient and heritable mutators in adaptive evolution in the lab and in nature. Genetics, 148(4), pp.1559-1566.
 * **Wilson, D.S., 1997. [Human groups as units of selection](https://www.science.org/doi/10.1126/science.276.5320.1816). Science, 276(5320), pp.1816-1817.**
 * **Smith, J.M. and Szathmary, E., 1997. The major transitions in evolution. OUP Oxford.**
-* https://content.time.com/time/subscriber/article/0,33009,983789-1,00.html
 * **Szathmáry, E. and Smith, J.M., 1995. The major evolutionary transitions. Nature, 374(6519), pp.227-232.**
 * **Wilson, D.S. and Sober, E., 1994. Reintroducing group selection to the human behavioral sciences. Behavioral and Brain Sciences, 17(4), pp.585-608.**
+
+## 1980s
+
 * Hinton, G.E. and Nowlan, S.J., 1987. How learning can guide evolution. Complex Systems, 1(3), pp.495-502.
 * Gould, S.J., 1982. Darwinism and the expansion of evolutionary theory. Science, 216(4544), pp.380-387.
 * Wilson, D.S., 1976. [Evolution on the level of communities](https://www.science.org/doi/abs/10.1126/science.1273598). Science, 192(4246), pp.1358-1360.
@@ -111,3 +113,7 @@ is fundamental to evolutionary biology. Hybridization might have a key role in e
   * Wright, S., 1945. Tempo and mode in evolution: A critical review. Ecology, 26(4), pp.415-419.
   * Wright, S., 1940. Breeding structure of populations in relation to speciation. American Naturalist, 74(752), pp.232-248.
   * Wright, S., 1931. [Evolution in Mendelian populations](http://v3r.esp.org/foundations/genetics/classical/holdings/w/sw-31a.pdf). Genetics, 16(2), p.97.
+
+##
+
+https://content.time.com/time/subscriber/article/0,33009,983789-1,00.html
