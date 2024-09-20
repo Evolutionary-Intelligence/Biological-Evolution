@@ -80,7 +80,8 @@ is fundamental to evolutionary biology. Hybridization might have a key role in e
 
 * Arjan G, J., Visser, M.D., Zeyl, C.W., Gerrish, P.J., Blanchard, J.L. and Lenski, R.E., 1999. Diminishing returns from mutation supply rate in asexual populations. Science, 283(5400), pp.404-406.
 * Dickinson, W.J. and Seger, J., 1999. Cause and effect in evolution. Nature, 399(6731), pp.30-30.
-* Hanski, I., 1998. [Metapopulation dynamics](https://www.nature.com/articles/23876). Nature, 396(6706), pp.41-49.
+* **Hanski, I., 1998. [Metapopulation dynamics](https://www.nature.com/articles/23876). Nature, 396(6706), pp.41-49.**
+  * **Hanski, I. and Gyllenberg, M., 1997. Uniting two general patterns in the distribution of species. Science, 275(5298), pp.397-400.**
 * Rosenberg, S.M., Thulin, C. and Harris, R.S., 1998. Transient and heritable mutators in adaptive evolution in the lab and in nature. Genetics, 148(4), pp.1559-1566.
 * **Wilson, D.S., 1997. [Human groups as units of selection](https://www.science.org/doi/10.1126/science.276.5320.1816). Science, 276(5320), pp.1816-1817.**
 * **Smith, J.M. and Szathmary, E., 1997. The major transitions in evolution. OUP Oxford.**
