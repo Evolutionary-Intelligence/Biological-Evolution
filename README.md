@@ -98,8 +98,8 @@ is fundamental to evolutionary biology. Hybridization might have a key role in e
   * **Hanski, I. and Gyllenberg, M., 1997. [Uniting two general patterns in the distribution of species](https://www.science.org/doi/10.1126/science.275.5298.397). Science, 275(5298), pp.397-400.**
 * Rosenberg, S.M., Thulin, C. and Harris, R.S., 1998. Transient and heritable mutators in adaptive evolution in the lab and in nature. Genetics, 148(4), pp.1559-1566.
 * **Wilson, D.S., 1997. [Human groups as units of selection](https://www.science.org/doi/10.1126/science.276.5320.1816). Science, 276(5320), pp.1816-1817.**
-* **Smith, J.M. and Szathmary, E., 1997. The major transitions in evolution. OUP Oxford.**
-* **Szathmáry, E. and Smith, J.M., 1995. The major evolutionary transitions. Nature, 374(6519), pp.227-232.**
+* **Smith, J.M. and Szathmary, E., 1997. [The major transitions in evolution](https://academic.oup.com/book/40636). Oxford University Press.**
+  * **Szathmáry, E. and Smith, J.M., 1995. [The major evolutionary transitions](https://www.nature.com/articles/374227a0). Nature, 374(6519), pp.227-232.**
 * **Wilson, D.S. and Sober, E., 1994. Reintroducing group selection to the human behavioral sciences. Behavioral and Brain Sciences, 17(4), pp.585-608.**
 
 ## 1980s
