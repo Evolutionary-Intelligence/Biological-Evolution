@@ -63,8 +63,8 @@ is fundamental to evolutionary biology. Hybridization might have a key role in e
 
 ### 2009
 
-* **Reznick, D.N. and Ricklefs, R.E., 2009. Darwin's bridge between microevolution and macroevolution. Nature, 457(7231), pp.837-842.**
-* Gavrilets, S. and Losos, J.B., 2009. [Adaptive radiation: Contrasting theory with data](https://www.science.org/doi/abs/10.1126/science.1157966). Science, 323(5915), pp.732-737.
+* **Reznick, D.N. and Ricklefs, R.E., 2009. [Darwin's bridge between microevolution and macroevolution](https://www.nature.com/articles/nature07894). Nature, 457(7231), pp.837-842.**
+* **Gavrilets, S. and Losos, J.B., 2009. [Adaptive radiation: Contrasting theory with data](https://www.science.org/doi/abs/10.1126/science.1157966). Science, 323(5915), pp.732-737.**
 
 ### 2008
 
