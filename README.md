@@ -111,7 +111,6 @@ is fundamental to evolutionary biology. Hybridization might have a key role in e
 
 * Wilson, D.S., 1976. [Evolution on the level of communities](https://www.science.org/doi/abs/10.1126/science.1273598). Science, 192(4246), pp.1358-1360.
 * Stanley, S.M., 1975. [A theory of evolution above the species level](https://www.pnas.org/doi/abs/10.1073/pnas.72.2.646). Proceedings of the National Academy of Sciences, 72(2), pp.646-650.
-* **Wynne-Edwards, V.C., 1972. Animal dispersion in relation to social behaviour. Oliver and Boyd.**
 
 ## 1960s
 
@@ -119,6 +118,7 @@ is fundamental to evolutionary biology. Hybridization might have a key role in e
 * Sagan, L., 1967. On the origin of mitosing cells. Journal of Theoretical Biology, 14(3), pp.225-IN6.
 * **Smith, J.M., 1964. Group selection and kin selection. Nature, 201(4924), pp.1145-1147.**
 * Wynne-Edwards, V.C., 1963. [Intergroup selection in the evolution of social systems](https://www.nature.com/articles/200623a0). Nature, 200(4907), pp.623-626.
+  * **Wynne-Edwards, V.C., 1962. Animal dispersion in relation to social behaviour. Oliver and Boyd.**
 * Mayr, E., 1961. Cause and effect in biology: Kinds of causes, predictability, and teleology are viewed by a practicing biologist. Science, 134(3489), pp.1501-1506.
 * Hamilton, W.D., 1964. The genetical evolution of social behaviour. II. Journal of Theoretical Biology, 7(1), pp.17-52.
 
