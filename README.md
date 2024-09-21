@@ -114,7 +114,14 @@ is fundamental to evolutionary biology. Hybridization might have a key role in e
 * Wynne-Edwards, V.C., 1963. [Intergroup selection in the evolution of social systems](https://www.nature.com/articles/200623a0). Nature, 200(4907), pp.623-626.
 * Mayr, E., 1961. Cause and effect in biology: Kinds of causes, predictability, and teleology are viewed by a practicing biologist. Science, 134(3489), pp.1501-1506.
 * Hamilton, W.D., 1964. The genetical evolution of social behaviour. II. Journal of Theoretical Biology, 7(1), pp.17-52.
-* Schrödinger, E., 1944. What is life? The physical aspect of the living cell and mind. Cambridge: Cambridge University Press.
+
+## 1940s 
+
+* **Schrödinger, E., 1944. What is life? The physical aspect of the living cell and mind. Cambridge University Press.**
+* **Huxley, J., 1942. Evolution: The modern synthesis.**
+
+## 1930s
+
 * Wright, S., 1932. [The roles of mutation, inbreeding, crossbreeding and selection in evolution](http://www.esp.org/books/6th-congress/facsimile/contents/6th-cong-p356-wright.pdf). In Proceedings of Sixth International Congress of Genetics (Vol. 1, pp. 356-366).
   * https://www.nasonline.org/wp-content/uploads/2024/06/wright-sewall.pdf
   * https://www.nature.com/articles/332492a0
