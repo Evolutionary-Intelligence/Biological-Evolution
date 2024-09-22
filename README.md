@@ -12,7 +12,7 @@ is fundamental to evolutionary biology. Hybridization might have a key role in e
 
 ### 2023
 
-* **Rolland, J., Henao-Diaz, L.F., Doebeli, M., Germain, R., Harmon, L.J., Knowles, L.L., Liow, L.H., Mank, J.E., Machac, A., Otto, S.P. and Pennell, M., 2023. [Conceptual and empirical bridges between micro- and macroevolution](https://www.nature.com/articles/s41559-023-02116-7). Nature Ecology & Evolution, 7(8), pp.1181-1193.**
+* **Rolland, J., et al., 2023. [Conceptual and empirical bridges between micro- and macroevolution](https://www.nature.com/articles/s41559-023-02116-7). Nature Ecology & Evolution, 7(8), pp.1181-1193.**
 * **Yagoobi, S., Sharma, N. and Traulsen, A., 2023. Categorizing update mechanisms for graph-structured metapopulations. Journal of the Royal Society Interface, 20(200), p.20220769.**
 * **Cooney, D.B., Levin, S.A., Mori, Y. and Plotkin, J.B., 2023. [Evolutionary dynamics within and among competing groups](https://www.pnas.org/doi/full/10.1073/pnas.2216186120). Proceedings of the National Academy of Sciences, 120(20), p.e2216186120.**
 * **Wilson, D.S., Madhavan, G., Gelfand, M.J., Hayes, S.C., Atkins, P.W. and Colwell, R.R., 2023. Multilevel cultural evolution: From new theory to practical applications. Proceedings of the National Academy of Sciences, 120(16), p.e2218222120.**
