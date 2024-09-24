@@ -4,10 +4,7 @@
 * The genetics of niche-specific behavioral tendencies in an adaptive radiation of cichlid fishes
   * "Many of these factors, and especially adaptation and speciation, are key components of the evolutionary phenomenon of adaptive radiation, that is, the rapid evolution of an array of species through adaptive diversification into a variety of ecological niches."
   * "Key feature of adaptive radiation is that new species emerge rapidly from a common ancestor as a consequence of their adaptation to distinct ecological niches, resulting in a correlation between adaptive phenotypes and the environment."
-* Rosser, N., Seixas, F., Queste, L.M., Cama, B., Mori-Pezo, R., Kryvokhyzha, D., Nelson, M., Waite-Hudson, R., Goringe, M., Costa, M. and Elias, M., 2024. [Hybrid speciation driven by multilocus introgression of ecological traits](https://www.nature.com/articles/s41586-024-07263-w). Nature, pp.1-7.
-  * "Hybridization allows adaptations to be shared among lineages and may trigger the evolution of new species." ... "The question of how new species originate and adapt to environments
-is fundamental to evolutionary biology. Hybridization might have a key role in establishing barriers to gene flow by creating new allelic combinations."
-  * "How populations transition to new fitness peaks remains an unanswered question, but adaptive introgression provides a possible route."
+* **Rosser, N., et al., 2024. [Hybrid speciation driven by multilocus introgression of ecological traits](https://www.nature.com/articles/s41586-024-07263-w). Nature, pp.1-7.**
 * Melissa, M.J. and Desai, M.M., 2024. A dynamical limit to evolutionary adaptation. Proceedings of the National Academy of Sciences, 121(4), p.e2312845121.
 
 ### 2023
