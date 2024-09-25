@@ -43,6 +43,9 @@
 
 ## 2010s
 
+### 2019
+
+* **Leibold, M.A., Urban, M.C., De Meester, L., Klausmeier, C.A. and Vanoverbeke, J., 2019. [Regional neutrality evolves through local adaptive niche evolution](https://www.pnas.org/doi/abs/10.1073/pnas.1808615116). Proceedings of the National Academy of Sciences, 116(7), pp.2612-2617.**
 * **Birch, J., 2019. Are kin and group selection rivals or friends?. Current Biology, 29(11), pp.R433-R438.**
 * **Van Vliet, S. and Doebeli, M., 2019. The role of multilevel selection in host microbiome evolution. Proceedings of the National Academy of Sciences, 116(41), pp.20591-20597.**
 * Czégel, D., Giaffar, H., Zachar, I., Tenenbaum, J.B. and Szathmáry, E., 2019. [Evolutionary implementation of Bayesian computations](https://www.biorxiv.org/content/10.1101/685842v2.abstract). BioRxiv, p.685842.
