@@ -89,8 +89,8 @@
 ### 2004
 
 * Chow, S.S., Wilke, C.O., Ofria, C., Lenski, R.E. and Adami, C., 2004. [Adaptive radiation from resource competition in digital organisms](https://www.science.org/doi/abs/10.1126/science.1096307). Science, 305(5680), pp.84-86.
-* **Werfel, J. and Bar-Yam, Y., 2004. [The evolution of reproductive restraint through social communication](https://www.pnas.org/doi/abs/10.1073/pnas.0305059101). Proceedings of the National Academy of Sciences, 101(30), pp.11019-11024.**
-* **Leibold, M.A., Holyoak, M., Mouquet, N., Amarasekare, P., Chase, J.M., Hoopes, M.F., Holt, R.D., Shurin, J.B., Law, R., Tilman, D. and Loreau, M., 2004. The metacommunity concept: A framework for multi‐scale community ecology. Ecology Letters, 7(7), pp.601-613.** [ **metacommunity** ]
+* **Werfel, J. and Bar-Yam, Y., 2004. [The evolution of reproductive restraint through social communication](https://www.pnas.org/doi/abs/10.1073/pnas.0305059101). Proceedings of the National Academy of Sciences, 101(30), pp.11019-11024.** [ **metapopulation** + **group selection** ]
+* **Leibold, M.A., et al., 2004. The metacommunity concept: A framework for multi‐scale community ecology. Ecology Letters, 7(7), pp.601-613.** [ **metacommunity** ]
 
 ### 2003
 
