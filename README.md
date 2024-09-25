@@ -10,7 +10,7 @@
 ### 2023
 
 * **Klein, R.G., 2023. [Profile of Svante Pääbo: 2022 Nobel laureate in physiology or medicine](https://www.pnas.org/doi/abs/10.1073/pnas.2217025119). Proceedings of the National Academy of Sciences, 120(1), p.e2217025119.**
-* **Haight, J.D., et al., 2023. [Urbanization, climate and species traits shape mammal communities from local to continental scales](https://www.nature.com/articles/s41559-023-02166-x). Nature Ecology & Evolution, 7(10), pp.1654-1666.**
+* **Haight, J.D., et al., 2023. [Urbanization, climate and species traits shape mammal communities from local to continental scales](https://www.nature.com/articles/s41559-023-02166-x). Nature Ecology & Evolution, 7(10), pp.1654-1666.** [ **multi-scaled biodiversity** ]
 * **Rolland, J., et al., 2023. [Conceptual and empirical bridges between micro- and macroevolution](https://www.nature.com/articles/s41559-023-02116-7). Nature Ecology & Evolution, 7(8), pp.1181-1193.**
 * **Yagoobi, S., Sharma, N. and Traulsen, A., 2023. Categorizing update mechanisms for graph-structured metapopulations. Journal of the Royal Society Interface, 20(200), p.20220769.**
 * **Cooney, D.B., Levin, S.A., Mori, Y. and Plotkin, J.B., 2023. [Evolutionary dynamics within and among competing groups](https://www.pnas.org/doi/full/10.1073/pnas.2216186120). Proceedings of the National Academy of Sciences, 120(20), p.e2216186120.**
