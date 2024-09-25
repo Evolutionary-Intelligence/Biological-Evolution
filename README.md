@@ -3,7 +3,7 @@
 ### 2024
 
 * **Backman, T., et al., 2024. [A phage tail–like bacteriocin suppresses competitors in metapopulations of pathogenic bacteria](https://www.science.org/doi/full/10.1126/science.ado0713). Science, 384(6701), p.eado0713.** [ **metapopulation** ]
-* **Sommer-Trembo, C., Santos, M.E., Clark, B., Werner, M., Fages, A., Matschiner, M., Hornung, S., Ronco, F., Oliver, C., Garcia, C. and Tschopp, P., 2024. [The genetics of niche-specific behavioral tendencies in an adaptive radiation of cichlid fishes](https://www.science.org/doi/full/10.1126/science.adj9228). Science, 384(6694), pp.470-475.**
+* **Sommer-Trembo, C., et al., 2024. [The genetics of niche-specific behavioral tendencies in an adaptive radiation of cichlid fishes](https://www.science.org/doi/full/10.1126/science.adj9228). Science, 384(6694), pp.470-475.**
 * **Rosser, N., et al., 2024. [Hybrid speciation driven by multilocus introgression of ecological traits](https://www.nature.com/articles/s41586-024-07263-w). Nature, pp.1-7.**
 * Melissa, M.J. and Desai, M.M., 2024. A dynamical limit to evolutionary adaptation. Proceedings of the National Academy of Sciences, 121(4), p.e2312845121.
 
