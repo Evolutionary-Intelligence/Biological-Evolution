@@ -1,7 +1,7 @@
 # Biological Evolution
 
 * **Backman, T., et al., 2024. [A phage tail–like bacteriocin suppresses competitors in metapopulations of pathogenic bacteria](https://www.science.org/doi/full/10.1126/science.ado0713). Science, 384(6701), p.eado0713.**
-* Sommer-Trembo, C., Santos, M.E., Clark, B., Werner, M., Fages, A., Matschiner, M., Hornung, S., Ronco, F., Oliver, C., Garcia, C. and Tschopp, P., 2024. The genetics of niche-specific behavioral tendencies in an adaptive radiation of cichlid fishes. Science, 384(6694), pp.470-475.
+* **Sommer-Trembo, C., Santos, M.E., Clark, B., Werner, M., Fages, A., Matschiner, M., Hornung, S., Ronco, F., Oliver, C., Garcia, C. and Tschopp, P., 2024. [The genetics of niche-specific behavioral tendencies in an adaptive radiation of cichlid fishes](https://www.science.org/doi/full/10.1126/science.adj9228). Science, 384(6694), pp.470-475.**
   * "Many of these factors, and especially adaptation and speciation, are key components of the evolutionary phenomenon of adaptive radiation, that is, the rapid evolution of an array of species through adaptive diversification into a variety of ecological niches."
   * "Key feature of adaptive radiation is that new species emerge rapidly from a common ancestor as a consequence of their adaptation to distinct ecological niches, resulting in a correlation between adaptive phenotypes and the environment."
 * **Rosser, N., et al., 2024. [Hybrid speciation driven by multilocus introgression of ecological traits](https://www.nature.com/articles/s41586-024-07263-w). Nature, pp.1-7.**
