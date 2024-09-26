@@ -56,6 +56,13 @@
 * Edelman, N.B., Frandsen, P.B., Miyagi, M., Clavijo, B., Davey, J., Dikow, R.B., García-Accinelli, G., Van Belleghem, S.M., Patterson, N., Neafsey, D.E. and Challis, R., 2019. Genomic architecture and introgression shape a butterfly radiation. Science, 366(6465), pp.594-599.
 * Wolf, Y.I., Katsnelson, M.I. and Koonin, E.V., 2018. Physical foundations of biological complexity. Proceedings of the National Academy of Sciences, 115(37), pp.E8678-E8687.
 * Lamichhaney, S., Han, F., Webster, M.T., Andersson, L., Grant, B.R. and Grant, P.R., 2018. Rapid hybrid speciation in Darwin’s finches. Science, 359(6372), pp.224-228.
+
+### 2017
+
+* **Allen, B., Lippner, G., Chen, Y.T., Fotouhi, B., Momeni, N., Yau, S.T. and Nowak, M.A., 2017. Evolutionary dynamics on any population structure. Nature, 544(7649), pp.227-230.**
+
+### 2015
+
 * Szathmáry, E., 2015. Toward major evolutionary transitions theory 2.0. Proceedings of the National Academy of Sciences, 112(33), pp.10104-10111.
 * West, S.A., Fisher, R.M., Gardner, A. and Kiers, E.T., 2015. Major evolutionary transitions in individuality. Proceedings of the National Academy of Sciences, 112(33), pp.10112-10119.
 * **Markvoort, A.J., Sinai, S. and Nowak, M.A., 2014. [Computer simulations of cellular group selection reveal mechanism for sustaining cooperation](https://www.sciencedirect.com/science/article/abs/pii/S0022519314002598). Journal of Theoretical Biology, 357, pp.123-133.**
