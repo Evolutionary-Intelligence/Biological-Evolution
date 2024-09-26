@@ -10,7 +10,7 @@
 ### 2023
 
 * **Klein, R.G., 2023. [Profile of Svante Pääbo: 2022 Nobel laureate in physiology or medicine](https://www.pnas.org/doi/abs/10.1073/pnas.2217025119). Proceedings of the National Academy of Sciences, 120(1), p.e2217025119.**
-* **Su, Q., McAvoy, A. and Plotkin, J.B., 2023. [Strategy evolution on dynamic networks](https://www.nature.com/articles/s43588-023-00509-z). Nature Computational Science, 3(9), pp.763-776.**
+* **Su, Q., McAvoy, A. and Plotkin, J.B., 2023. [Strategy evolution on dynamic networks](https://www.nature.com/articles/s43588-023-00509-z). Nature Computational Science, 3(9), pp.763-776.** [ **Evolution of Cooperation** ]
 * **Tkadlec, J., Kaveh, K., Chatterjee, K. and Nowak, M.A., 2023. [Evolutionary dynamics of mutants that modify population structure](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2023.0355). Journal of the Royal Society Interface, 20(208), p.20230355.**
 * **Haight, J.D., et al., 2023. [Urbanization, climate and species traits shape mammal communities from local to continental scales](https://www.nature.com/articles/s41559-023-02166-x). Nature Ecology & Evolution, 7(10), pp.1654-1666.** [ **multi-scale biodiversity** ]
 * **Rolland, J., et al., 2023. [Conceptual and empirical bridges between micro- and macroevolution](https://www.nature.com/articles/s41559-023-02116-7). Nature Ecology & Evolution, 7(8), pp.1181-1193.**
