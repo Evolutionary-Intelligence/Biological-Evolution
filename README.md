@@ -5,6 +5,7 @@
 * **Backman, T., et al., 2024. [A phage tail–like bacteriocin suppresses competitors in metapopulations of pathogenic bacteria](https://www.science.org/doi/full/10.1126/science.ado0713). Science, 384(6701), p.eado0713.** [ **metapopulation** ]
 * **Sommer-Trembo, C., et al., 2024. [The genetics of niche-specific behavioral tendencies in an adaptive radiation of cichlid fishes](https://www.science.org/doi/full/10.1126/science.adj9228). Science, 384(6694), pp.470-475.**
 * **Rosser, N., et al., 2024. [Hybrid speciation driven by multilocus introgression of ecological traits](https://www.nature.com/articles/s41586-024-07263-w). Nature, pp.1-7.**
+* Gitschlag, B.L., Pereira, C.V., Held, J.P., McCandlish, D.M. and Patel, M.R., 2024. Multiple distinct evolutionary mechanisms govern the dynamics of selfish mitochondrial genomes in Caenorhabditis elegans. Nature Communications, 15(1), p.8237.
 * Melissa, M.J. and Desai, M.M., 2024. A dynamical limit to evolutionary adaptation. Proceedings of the National Academy of Sciences, 121(4), p.e2312845121.
 
 ### 2023
