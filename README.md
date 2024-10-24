@@ -71,7 +71,10 @@
 * **Heliconius Genome Consortium, 2012. [Butterfly genome reveals promiscuous exchange of mimicry adaptations among species](https://www.nature.com/articles/nature11041). Nature, 487(7405), pp.94-98.**
 * Woods, R.J., Barrick, J.E., Cooper, T.F., Shrestha, U., Kauth, M.R. and Lenski, R.E., 2011. Second-order selection for evolvability in a large Escherichia coli population. Science, 331(6023), pp.1433-1436.
 * Sachs, J.L., Skophammer, R.G. and Regus, J.U., 2011. Evolutionary transitions in bacterial symbiosis. Proceedings of the National Academy of Sciences, 108, pp.10800-10807.
-* Lynch, M., 2010. Evolution of the mutation rate. Trends in Genetics, 26(8), pp.345-352.
+
+### 2010
+
+* **Lynch, M., 2010. [Evolution of the mutation rate](https://www.cell.com/genetics/fulltext/S0168-9525(10)00103-4). Trends in Genetics, 26(8), pp.345-352.**
 * Vasas, V., Szathmáry, E. and Santos, M., 2010. Lack of evolvability in self-sustaining autocatalytic networks constraints metabolism-first scenarios for the origin of life. Proceedings of the National Academy of Sciences, 107(4), pp.1470-1475.
 * **Nowak, M.A., Tarnita, C.E. and Wilson, E.O., 2010. [The evolution of eusociality](https://www.nature.com/articles/nature09205). Nature, 466(7310), pp.1057-1062.**
 * **Wade, M.J., Wilson, D.S., Goodnight, C., Taylor, D., Bar-Yam, Y., de Aguiar, M.A., Stacey, B., Werfel, J., Hoelzer, G.A., Brodie III, E.D. and Fields, P., 2010. [Multilevel and kin selection in a connected world](https://www.nature.com/articles/nature08809). Nature, 463(7283), pp.E8-E9.**
